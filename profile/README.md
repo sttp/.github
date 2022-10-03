@@ -4,3 +4,5 @@ The protocol allows for the transmission of any information that can be represen
 STTP is currently undergoing IEEE standardization (P2664), see: https://standards.ieee.org/ieee/2664/7397/
 
 This GitHub organizational site defines open source langauge specific implementations of STTP for general industry use.
+
+See https://sttp.info/ for general STTP documentation.
