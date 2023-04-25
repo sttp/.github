@@ -6,3 +6,5 @@ STTP is currently undergoing IEEE standardization (P2664), see: https://standard
 This GitHub organizational site defines open source langauge specific implementations of STTP for general industry use.
 
 See https://sttp.info/ for general STTP documentation.
+
+![API Status](APIStatus.png)
