@@ -7,4 +7,4 @@ This GitHub organizational site defines open source langauge specific implementa
 
 See https://sttp.info/ for general STTP documentation.
 
-![API Status](profile/APIStatus.png)
+![API Status](APIStatus.png)
